@@ -4,14 +4,18 @@
 		"max_memory_restart": "1024M",
 		"log_date_format": "YYYY-MM-DD HH:mm:ss SSS",
 		"script": "bin/hubot",
-		"exec_interpreter": "sh",
+		"exec_interpreter": "bash",
 		"args": "--adapter rocketchat",
 		"watch": ["package.json", "external-scripts.json", "scripts/", "hubot-scripts.json", "bin/hubot"],
 		"out_file": "/var/log/rocketbot/app.log",
 		"error_file": "/var/log/rocketbot/err.log",
-		"port": "8079",
+		"port": "8070",
 		"env": {
-			"PORT": "8079"
+			"ROCKETCHAT_URL": "localhost:8080",
+			"ROCKETCHAT_ROOM": "57om6EQCcFami9wuT",
+			"ROCKETCHAT_USER": "rocketbot",
+			"ROCKETCHAT_PASSWORD": "",
+			"PORT": "8070"
 		}
 	}]
 }
