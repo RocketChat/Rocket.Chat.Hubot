@@ -1,0 +1,14 @@
+{
+	"apps": [{
+		"name": "rocketbot",
+		"max_memory_restart": "1024M",
+		"log_date_format": "YYYY-MM-DD HH:mm:ss SSS",
+		"script": "/var/www/rocketbot/bundle/main.js",
+		"out_file": "/var/log/rocketbot/app.log",
+		"error_file": "/var/log/rocketbot/err.log",
+		"port": "8079",
+		"env": {
+			"PORT": "8079"
+		}
+	}]
+}
