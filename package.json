@@ -1,0 +1,61 @@
+{
+  "name": "RocketBot",
+  "version": "0.0.1",
+  "author": {
+    "name": "Rocket.Chat",
+    "email": "support@rocket.chat",
+    "url": "http://rocket.chat/"
+  },
+  "contributors": [
+    {
+      "name": "Gabriel Engel",
+      "email": "gabriel.engel@gmail.com"
+    },
+    {
+      "name": "Sing Li",
+      "email": "sli@makawave.com"
+    }
+  ],
+  "description": "The sample Hubot called RocketBot for Rocket.Chat",
+  "keywords": [
+    "hubot",
+    "bot",
+    "adapter",
+    "rocketchat",
+    "rocketbot",
+    "rocket",
+    "chat"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RocketChat/RocketBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RocketChat/RocketBot/issues",
+    "email": "support@rocket.chat"
+  },
+  "dependencies": {
+    "hubot": "^2.13.1",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-google-images": "^0.1.5",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-help": "^0.1.1",
+    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-maps": "0.0.2",
+    "hubot-pugme": "^0.1.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rocketchat": "0.0.4",
+    "hubot-rules": "^0.1.1",
+    "hubot-scripts": "^2.16.1",
+    "hubot-shipit": "^0.2.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
