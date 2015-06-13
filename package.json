@@ -50,7 +50,7 @@
     "hubot-maps": "0.0.2",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
-    "hubot-rocketchat": "0.0.4",
+    "hubot-rocketchat": " ^0.0.5",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0"
