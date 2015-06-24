@@ -12,7 +12,7 @@
 		"port": "8070",
 		"env": {
 			"ROCKETCHAT_URL": "localhost:8080",
-			"ROCKETCHAT_ROOM": "57om6EQCcFami9wuT",
+			"ROCKETCHAT_ROOM": "GENERAL",
 			"ROCKETCHAT_USER": "rocketbot",
 			"ROCKETCHAT_PASSWORD": "",
 			"PORT": "8070"
