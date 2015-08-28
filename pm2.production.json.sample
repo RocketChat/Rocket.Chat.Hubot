@@ -6,16 +6,17 @@
 		"script": "bin/hubot",
 		"exec_interpreter": "bash",
 		"args": "--adapter rocketchat",
-		"watch": ["package.json", "external-scripts.json", "scripts/", "hubot-scripts.json", "bin/hubot"],
+		"watch": ["package.json", "external-scripts.json", "scripts/", "hubot-scripts.json", "HUBOT_GITHUB_EVENT_NOTIFIER_TYPES=issues,pull_request,push bin/hubot"],
 		"out_file": "/var/log/rocketbot/app.log",
 		"error_file": "/var/log/rocketbot/err.log",
-		"port": "8070",
+		"port": "8079",
 		"env": {
 			"ROCKETCHAT_URL": "localhost:8080",
-			"ROCKETCHAT_ROOM": "GENERAL",
 			"ROCKETCHAT_USER": "rocketbot",
+			"ROCKETCHAT_ROOM": "GENERAL",
 			"ROCKETCHAT_PASSWORD": "",
-			"PORT": "8070"
+			"PORT": "8079",
+			"HUBOT_GITHUB_EVENT_NOTIFIER_TYPES": "issues,pull_request,push"
 		}
 	}]
 }
