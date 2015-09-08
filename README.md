@@ -1,6 +1,9 @@
 # RocketBot
 The hubot-rockectchat sample implementation used at http://rocket.chat
 
+#### NOTE
+If you want to integrate Rocket.Chat with Github or Gitlab. Make sure you visit the [Rocket.Chat.Ops](https://github.com/RocketChat/Rocket.Chat.Ops) project before starting. We already have many bots that sink webhook events and access Github APIs. You can easily extend these bots for your custom application.
+
 ## hubot
 
 hubot is a chat bot built on the [Hubot][hubot] framework. It was
