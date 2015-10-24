@@ -1,12 +1,2 @@
 [
-  "hubot-diagnostics",
-  "hubot-help",
-  "hubot-google-images",
-  "hubot-google-translate",
-  "hubot-pugme",
-  "hubot-maps",
-  "hubot-redis-brain",
-  "hubot-rules",
-  "hubot-shipit",
-  "hubot-github-repo-event-notifier"
 ]
