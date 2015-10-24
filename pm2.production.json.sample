@@ -5,7 +5,7 @@
 		"log_date_format": "YYYY-MM-DD HH:mm:ss SSS",
 		"script": "bin/hubot",
 		"exec_interpreter": "bash",
-		"args": "--adapter rocketchat",
+		"args": "--name hubot --adapter rocketchat",
 		"watch": ["package.json", "external-scripts.json", "scripts/", "hubot-scripts.json", "HUBOT_GITHUB_EVENT_NOTIFIER_TYPES=issues,pull_request,push bin/hubot"],
 		"out_file": "/var/log/hubot/app.log",
 		"error_file": "/var/log/hubot/err.log",
