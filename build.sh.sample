@@ -7,8 +7,8 @@ if [ ! $1 ]; then
 fi
 
 if [ $1 ]; then
-	cd /var/www/rocketbot/current
+	cd /var/www/hubot/current
 	npm install
 	export PATH="node_modules/.bin:node_modules/hubot/node_modules/.bin:$PATH"
-	pm2 startOrRestart /var/www/rocketbot/current/pm2.$1.json
+	pm2 startOrRestart /var/www/hubot/current/pm2.$1.json
 fi
