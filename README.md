@@ -1,4 +1,4 @@
-# RocketBot
+# Rocket.Chat.Hubot
 The hubot-rockectchat sample implementation used at http://rocket.chat
 
 #### NOTE

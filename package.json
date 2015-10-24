@@ -1,5 +1,5 @@
 {
-  "name": "RocketBot",
+  "name": "Rocket.Chat.Hubot",
   "version": "0.0.1",
   "author": {
     "name": "Rocket.Chat",
@@ -8,12 +8,12 @@
   },
   "contributors": [{
     "name": "Gabriel Engel",
-    "email": "gabriel.engel@gmail.com"
+    "email": "gabriel.engel@rocket.chat"
   }, {
     "name": "Sing Li",
-    "email": "sli@makawave.com"
+    "email": "sing.li@rocket.chat"
   }],
-  "description": "The sample Hubot called RocketBot for Rocket.Chat",
+  "description": "The sample Hubot for Rocket.Chat",
   "keywords": [
     "hubot",
     "bot",
@@ -28,10 +28,10 @@
   }],
   "repository": {
     "type": "git",
-    "url": "https://github.com/RocketChat/RocketBot.git"
+    "url": "https://github.com/RocketChat/Rocket.Chat.Hubot.git"
   },
   "bugs": {
-    "url": "https://github.com/RocketChat/RocketBot/issues",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Hubot/issues",
     "email": "support@rocket.chat"
   },
   "dependencies": {

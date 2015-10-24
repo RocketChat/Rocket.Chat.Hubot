@@ -4,7 +4,7 @@
 			"user": "root",
 			"host": ["rocket.chat"],
 			"ref": "origin/master",
-			"repo": "https://github.com/RocketChat/RocketBot.git",
+			"repo": "https://github.com/RocketChat/Rocket.Chat.Hubot.git",
 			"path": "/var/www/hubot",
 			"post-deploy": "source build.sh production"
 		}
