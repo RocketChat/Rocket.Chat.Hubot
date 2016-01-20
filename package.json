@@ -51,7 +51,7 @@
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
     "hubot-github-repo-event-notifier": ">=0.0.0",
-    "hubot-rocketchat": "git://github.com/RocketChat/hubot-rocketchat.git#develop"
+    "hubot-rocketchat": "git://github.com/RocketChat/hubot-rocketchat.git#asteroid-1.0.0"
   },
   "engines": {
     "node": "0.10.x"
