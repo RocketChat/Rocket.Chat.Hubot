@@ -22,10 +22,7 @@
     "rocket",
     "chat"
   ],
-  "licenses": [{
-    "type": "MIT",
-    "url": "http://opensource.org/licenses/mit-license.php"
-  }],
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/RocketChat/Rocket.Chat.Hubot.git"
@@ -38,7 +35,8 @@
     "underscore": "latest",
     "underscore.string": "latest",
     "nodemailer": "latest",
-    "hubot": "^2.13.1",
+    "hubot": "latest",
+    "hubot-rocketchat": "git://github.com/RocketChat/hubot-rocketchat.git"
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.5",
     "hubot-google-translate": "^0.2.0",
@@ -51,7 +49,6 @@
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
     "hubot-github-repo-event-notifier": ">=0.0.0",
-    "hubot-rocketchat": "latest"
   },
   "engines": {
     "node": "0.10.x"
