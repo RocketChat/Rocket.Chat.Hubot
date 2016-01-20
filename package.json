@@ -36,7 +36,7 @@
     "underscore.string": "latest",
     "nodemailer": "latest",
     "hubot": "latest",
-    "hubot-rocketchat": "git://github.com/RocketChat/hubot-rocketchat.git"
+    "hubot-rocketchat": "git://github.com/RocketChat/hubot-rocketchat.git",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.5",
     "hubot-google-translate": "^0.2.0",
@@ -48,7 +48,7 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.1",
     "hubot-shipit": "^0.2.0",
-    "hubot-github-repo-event-notifier": ">=0.0.0",
+    "hubot-github-repo-event-notifier": ">=0.0.0"
   },
   "engines": {
     "node": "0.10.x"
