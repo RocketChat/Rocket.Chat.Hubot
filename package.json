@@ -36,7 +36,7 @@
     "underscore.string": "latest",
     "nodemailer": "latest",
     "hubot": "latest",
-    "hubot-rocketchat": "git://github.com/RocketChat/hubot-rocketchat.git",
+    "hubot-rocketchat": "latest",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.5",
     "hubot-google-translate": "^0.2.0",
