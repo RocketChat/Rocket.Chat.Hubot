@@ -22,7 +22,6 @@
 	"gorbypuff.coffee",
 	"hangout.coffee",
 	"hashing.coffee",
-	"hello.coffee",
 	"httpcat.coffee",
 	"karma.coffee",
 	"megusta.coffee",
@@ -40,6 +39,5 @@
 	"wordnik.coffee",
 	"yoda-pictures.coffee",
 	"yoda-quotes.coffee",
-	"zen.coffee",
 	"zombies.coffee"
 ]
