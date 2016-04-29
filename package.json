@@ -39,19 +39,15 @@
     "hubot-rocketchat": "latest",
     "hubot-scripts": "latest",
     "hubot-help": "latest",
-    "hubot-calculator": "0.4.0",
-    "hubot-diagnostics": "0.0.1",
-    "hubot-github-repo-event-notifier": ">=0.0.0",
-    "hubot-google-hangouts": "0.7.1",
-    "hubot-google-images": "^0.1.5",
-    "hubot-google-translate": "^0.2.0",
-    "hubot-heroku-keepalive": "0.0.4",
-    "hubot-maps": "0.0.2",
-    "hubot-pugme": "^0.1.0",
-    "hubot-redis-brain": "0.0.3",
-    "hubot-rules": "^0.1.1",
-    "hubot-shipit": "^0.2.0",
-    "hubot-youtube": "1.0.0"
+    "hubot-calculator": "latest",
+    "hubot-diagnostics": "latest",
+    "hubot-google-hangouts": "latest",
+    "hubot-google-images": "latest",
+    "hubot-maps": "latest",
+    "hubot-pugme": "latest",
+    "hubot-redis-brain": "latest",
+    "hubot-rules": "latest",
+    "hubot-youtube": "latest"
   },
   "engines": {
     "node": "0.10.x"

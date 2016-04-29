@@ -1,2 +1,11 @@
 [
+	"hubot-help",
+	"hubot-calculator",
+	"hubot-diagnostics",
+	"hubot-google-hangouts",
+	"hubot-google-images",
+	"hubot-maps",
+	"hubot-redis-brain",
+	"hubot-rules",
+	"hubot-youtube"
 ]
