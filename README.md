@@ -68,8 +68,6 @@ get started, along with the [Scripting Guide](https://github.com/github/hubot/bl
 For many common tasks, there's a good chance someone has already one to do just
 the thing.
 
-[scripting-docs]: https://github.com/github/hubot/blob/master/docs/scripting.md
-
 ### external-scripts
 
 There will inevitably be functionality that everyone will want. Instead of
