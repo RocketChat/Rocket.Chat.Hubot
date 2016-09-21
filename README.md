@@ -63,7 +63,7 @@ it's suggested that you search for a dedicated guide focused on your OS.
 ### Scripting
 
 An example script is included at `scripts/example.coffee`, so check it out to
-get started, along with the [Scripting Guide](scripting-docs).
+get started, along with the [Scripting Guide](https://github.com/github/hubot/blob/master/docs/scripting.md).
 
 For many common tasks, there's a good chance someone has already one to do just
 the thing.
