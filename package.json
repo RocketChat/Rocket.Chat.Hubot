@@ -4,7 +4,7 @@
   "author": {
     "name": "Rocket.Chat",
     "email": "support@rocket.chat",
-    "url": "http://rocket.chat/"
+    "url": "https://rocket.chat/"
   },
   "contributors": [{
     "name": "Gabriel Engel",
@@ -48,8 +48,5 @@
     "hubot-redis-brain": "latest",
     "hubot-rules": "latest",
     "hubot-youtube": "latest"
-  },
-  "engines": {
-    "node": "0.10.x"
   }
 }
